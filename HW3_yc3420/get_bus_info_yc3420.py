@@ -48,6 +48,6 @@ else:
         
         
         #make the csv file
-        result_csv = pd.DataFrame({'Latitude':locations[i]["Latitude"],'Longitude':locations[i]["Longitude"],'Stop_Name':stop_name[i],'Status':stop_status[i]})
+        result_csv = pd.DataFrame({'Latitude':locations[i]["Latitude"],'Longitude':locations[i]["Longitude"],'Stop_Name':stop_name[i],'Status':stop_status[i]},index=[i])
         result_csv.to_csv('%s.csv'%(sys.argv[2]),sep = ',')
 
