@@ -43,8 +43,8 @@ else:
             stop_status.append('N/A')
         
         else:
-            stop_status.append(stop_info[i]['Extensions']['Distances']['PresentableDistance'])
-            stop_name.append(stop_info[i]['StopPointName'])
+            stop_status.append(schedule[i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][i]['Extensions']['Distances']['PresentableDistance'])
+            stop_name.append(schedule[i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][i]['StopPointName'])
         
         
         #make the csv file
