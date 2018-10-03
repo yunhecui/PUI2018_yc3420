@@ -9,7 +9,7 @@ https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW4_yc3420/HW4_Assignment
 
 ### Assignment 2:
 We came up with a hypothesis which based on the citibike data(2015 march). We also made several chart for better understanding the data we have. The test of this hypothsis will be performed in HW5. 
-https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW4_yc3420/HW4_Assignment2_yc3420.ipynb
+https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW4_yc3420/HW4_Assignment2-yc3420.ipynb
 
 ### Assignment 3:
 In this one, we finished a z-test based on bus line X8 data. The settings and test result will be shown in https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW4_yc3420/HW4_Assignment3_yc3420.ipynb
