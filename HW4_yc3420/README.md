@@ -1,5 +1,8 @@
 This is the folder for PUI Homework 4.
 There are three assignment included. 
+
+ALL works are finished individually. 
+
 ### Assignment 1:
 For this one, we played with five different distributions and show through scatter plot that, with the sample size increase, the sample mean will approach the preset mean (which, in short, is called central limit theorem). We also made a histogram that contains all the sample data with a gaussian fit curve. 
 https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW4_yc3420/HW4_Assignment1_yc3420.ipynb
