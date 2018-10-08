@@ -1,5 +1,5 @@
 # Homework 5 for PUI2018
-## evening session.  
+(evening session)   
 There will be two assignments. Both are individual work by Yunhe(netid: yc3420)
 ## Assignment 1:  
 using pandas and follow the skeleton notebook that provided by Dr. Bianco.
