@@ -1,6 +1,6 @@
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-Correlation	|
+Correlation	|\
 1, prenatal exposure to maternal tobacco smoking over 12wk | 
 dichotomous| 
 1, DNA methylation|
