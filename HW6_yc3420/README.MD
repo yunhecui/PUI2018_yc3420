@@ -17,13 +17,14 @@ Tests of correlation using the scipy package with 2015 Feb and Aug citibike data
 Conducted Pearson’s test, Spearman’s test and K-S test on the combination of the citibike mentioned above.
 Here I used a python file that retrieved from the instrutor which named getCitiBikeCSV.py to download and unzip the citibike data.
 
-[Assignment4_skeleton(with empty cells filled)](https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW6_yc3420/Assignment_4_skeleton.ipynb)
+Assignment4_skeleton(with empty cells filled). 
+https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW6_yc3420/Assignment_4_skeleton.ipynb
 
-[Assignment4_yc3420_own_work] 
-(https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW6_yc3420/Assignment_4_ycwork.ipynb)
+Assignment4_yc3420_own_work 
+https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW6_yc3420/Assignment_4_ycwork.ipynb
 
-[Assignment4_ec_prep] 
-(https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW6_yc3420/Assignment_4_ec_prep.ipynb)
+Assignment4_ec_prep 
+https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW6_yc3420/Assignment_4_ec_prep.ipynb
 
 # !!! There is a separate ipynb that need to be run under python 3 environment before rerun the HW6-assignment notebook.!!!
 # There are two shape files (.shp + .dbf + .shx ....), please make sure to download them ALL TOGETHER
