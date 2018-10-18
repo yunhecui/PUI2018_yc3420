@@ -23,4 +23,5 @@ MANCOVA	| 1,Age | ordinal | 1,FIQ | categorical | sex, diagnosis | continuous (c
 Logistic Regression	| 1,BMI,liver right lobe | Categorical | 1,diagnosed or not | categorical | 0 | N/A | 	Given some medical parameters and results, test to see and diagnose whether or not a patient is obese. | p(0, 1) != a1*BMI + a2*TA systole + a3*TA diastole + a4*liver right lobe + a5*hilus down + a6*hilus big a7*lung arbrz | 0.05 | [The Classification of Obesity Disease in Logistic Regression and Neural Network Methods](https://link.springer.com/article/10.1007%2Fs10916-008-9165-5#Sec6) |
   |||||||||
 
+
 ![LR](lr.png)
