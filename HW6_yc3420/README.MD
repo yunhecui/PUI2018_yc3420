@@ -3,9 +3,9 @@ This is a folder for Yunhe Cui. HW6 Assignment 1-4. Assignment 2 is a collaborat
 Following the instruction to give feedback to a randomly selected classmate's previous homework about hypothesis test. 
 A screen shot of pull request :
 ![pull request](screenshot_pull_request.png)
-The proposal that I have to give the review is Antonio Kodsy, ak6948, antoniokodsy1993. 
-original repo link: https://github.com/antoniokodsy1993/PUI2018_ak6948
-forked repo link: https://github.com/yunhecui/PUI2018_ak6948
+The proposal that I have to give the review is Antonio Kodsy, ak6948, antoniokodsy1993.   
+original repo link: https://github.com/antoniokodsy1993/PUI2018_ak6948   
+forked repo link: https://github.com/yunhecui/PUI2018_ak6948  
 
 ### Assignment 2:
 Worked with Amber Chen (yc3763), Tiancheng Yin (ty1045) to create the table in Assignment2.md.   
