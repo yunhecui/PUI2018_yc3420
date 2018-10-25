@@ -1,7 +1,7 @@
-#This is the folder for PUI2018 HW7  
-####finished by Yunhe Cui, yc3420  
-##This assignment is following the skeleton notebook from Dr.Bianco (instructor of PUI2018)  
+# This is the folder for PUI2018 HW7  
+#### finished by Yunhe Cui, yc3420  
+## This assignment is following the skeleton notebook from Dr.Bianco (instructor of PUI2018)  
 the skeleton notebook link is: https://github.com/fedhere/PUI2018_fb55/raw/master/HW7_fb55/geopandas_census_instructions.ipynb
 
-### the choroplethNYC.py is wrote by Dr.Bianco, the download link is: https://github.com/fedhere/choroplethNYC/raw/master/choroplethNYC.py
+the choroplethNYC.py is wrote by Dr.Bianco, the download link is: https://github.com/fedhere/choroplethNYC/raw/master/choroplethNYC.py
 
