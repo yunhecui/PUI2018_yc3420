@@ -7,4 +7,4 @@ This is an individual work
   
   
 ## Assignment 2:
-Following the instruction given by Dr. Bianco in her HW10 repo.
+Following the instruction given by Dr. Bianco in her HW10 repo. Also an individual work
