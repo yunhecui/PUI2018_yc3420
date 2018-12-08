@@ -7,4 +7,4 @@ I consulted Tiancheng Yin about several steps that related to â€œstandardizedtsâ
 
 ## Assignment 2.
 Based on the suggestions that given in HW9-peer review, I modified my HW8 and the final image of my deliverable is shown below
-![img.1]https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW11_yc3420/hw11_assignment2.png
+![img.1](https://github.com/yunhecui/PUI2018_yc3420/blob/master/HW11_yc3420/hw11_assignment2.png)
